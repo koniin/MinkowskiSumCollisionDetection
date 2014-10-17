@@ -1,0 +1,9 @@
+C:\Code\WhichSide\WhichSide\bin\Debug\WhichSide.exe.config
+C:\Code\WhichSide\WhichSide\obj\Debug\WhichSide.csprojResolveAssemblyReference.cache
+C:\Code\WhichSide\WhichSide\obj\Debug\WhichSide.Form1.resources
+C:\Code\WhichSide\WhichSide\obj\Debug\WhichSide.Properties.Resources.resources
+C:\Code\WhichSide\WhichSide\obj\Debug\WhichSide.csproj.GenerateResource.Cache
+C:\Code\WhichSide\WhichSide\bin\Debug\WhichSide.exe
+C:\Code\WhichSide\WhichSide\bin\Debug\WhichSide.pdb
+C:\Code\WhichSide\WhichSide\obj\Debug\WhichSide.exe
+C:\Code\WhichSide\WhichSide\obj\Debug\WhichSide.pdb
